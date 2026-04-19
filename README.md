@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1923,100:0d1117&height=170&section=header&text=Tulman%20Tamang&fontSize=44&fontColor=e6edf3&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%94%20MERN%20%7C%20Kathmandu%2C%20Nepal&descAlignY=58&descSize=15&descColor=7d8590" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+in+Progress;MERN+Stack+%7C+TypeScript+%7C+REST+APIs;Building+real+products+from+Kathmandu;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG" />
