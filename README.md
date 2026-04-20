@@ -11,19 +11,6 @@
 
 ---
 
-### About
-
-```typescript
-const tulman = {
-  name:       "Tulman Tamang",
-  location:   "Kathmandu, Nepal 🇳🇵",
-  website:    "tulmantamang.com.np",
-  focus:      ["Full-Stack Dev", "MERN Stack", "TypeScript", "REST APIs"],
-  building:   "Products that work — for real users",
-  available:  true,   // internships & freelance
-};
-```
-
 I'm a developer based in Kathmandu, building full-stack applications with the MERN stack. I care about clean code, real deployments, and projects that actually solve something. Currently leveling up in TypeScript and backend architecture.
 
 ---
@@ -56,26 +43,6 @@ I'm a developer based in Kathmandu, building full-stack applications with the ME
 
 ---
 
-### Projects
-
-#### Portfolio — Personal Website
-`TypeScript` &nbsp;`React` &nbsp;`Tailwind CSS`
-
-My personal portfolio built with TypeScript and React. Showcases projects, skills, and contact info. Live and deployed.
-
-[**Live →**](https://www.tulmantamang.com.np) &nbsp;·&nbsp; [**Code →**](https://github.com/tulmantamang/PortfolioUpdate)
-
-<br/>
-
-#### [Your Next Project] — Full-Stack App
-`Node.js` &nbsp;`Express` &nbsp;`MongoDB` &nbsp;`React`
-
-*Currently building — description coming soon.*
-
-[**Code →**](https://github.com/tulmantamang)
-
----
-
 ### GitHub Stats
 
 <p align="center">
@@ -104,20 +71,6 @@ Snake setup: create `.github/workflows/snake.yml` → add [Platane/snk](https://
 
 ---
 
-### Currently Learning
-
-```
-2026
-├── MERN Stack
-│   ├── TypeScript — typing the full stack         ✓
-│   ├── MongoDB + Mongoose — advanced queries       ⟳
-│   └── React — performance, patterns              ⟳
-├── Next.js — App Router, SSR
-├── Docker — containerize and deploy APIs
-└── System Design — for scale
-```
-
----
 
 ### Connect
 
