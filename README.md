@@ -57,20 +57,6 @@ I'm a developer based in Kathmandu, building full-stack applications with the ME
 
 ---
 
-### Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tulmantamang/tulmantamang/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<sub align="center">
-
-Snake setup: create `.github/workflows/snake.yml` → add [Platane/snk](https://github.com/Platane/snk) action → push.
-
-</sub>
-
----
-
 
 ### Connect
 
