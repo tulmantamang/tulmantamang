@@ -79,9 +79,3 @@ I'm a developer based in Kathmandu, building full-stack applications with the ME
 </p>
 
 ---
-
-<p align="center">
-  <sub>Building in public from Kathmandu — one commit at a time.</sub>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1923,100:0d1117&height=100&section=footer" width="100%" />
